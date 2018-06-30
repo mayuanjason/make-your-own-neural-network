@@ -1,0 +1,4 @@
+# python
+/.ipynb_checkpoints/
+/mnist_dataset/mnist_train.csv
+/mnist_dataset/mnist_test.csv
